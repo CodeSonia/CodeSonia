@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Sonia Hussain, and I am a Junior Software Developer. I'm from Birmingham, UK and currently work at GDS (Government Digital Services). 
 <!--
 **CodeSonia/CodeSonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
