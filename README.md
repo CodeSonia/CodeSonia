@@ -8,7 +8,7 @@ I'm currenrly honing my skills in Ruby, Ruby on Rails, Databases and Frontend De
 
 🚀 **Bootcamp Highlights:** A great achievement was when I led a team of anime enthusiasts, in creating [Anime Trek](https://github.com/CodeSonia/anime-trek) where users are able to search for anime and look up further information, as well as earning points ✨ for adding anime to their watchlist, writing reviews and adding comments. As well as building upon my technical skillset, I developed soft skills such as collaboration, communication, project management and [presentation skills](https://www.youtube.com/watch?v=U3Wqv_YkVXA).
 
-✨ **From Marketing to Dev:** I switched my career from marketing => civil service => software development (in civil service). Over the past couple of years, I've dabbled in HTML, CSS, JS and some Python. 
+✨ **From Marketing to Dev:** I switched my career from marketing => civil service => software development (in civil service). Over the past couple of years and inbetween day-to-day jobs, I've dabbled in HTML, CSS, JS and some Python to grow my curiosity. 
 
 <!--
 **CodeSonia/CodeSonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
