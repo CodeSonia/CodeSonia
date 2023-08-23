@@ -2,7 +2,7 @@
 
 My name is Sonia Hussain, and I am a Junior Software Developer. I'm from Birmingham, UK and currently work at GDS (Government Digital Services). 
 
-I'm currenrly honing my skills in Ruby, Ruby on Rails, Databases and Frontend Development 🌱
+I'm currently honing my skills in Ruby, Ruby on Rails, Databases and Frontend Development 🌱
 
 🎓 **Learning Journey:** I completed an intensive Web Devopment Bootcamp at Le Wagon (end of June 2023). This was a great stepping stone into software development as it allowed me to make 10000000s of mistakes during my learning. 
 
