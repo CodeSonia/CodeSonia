@@ -1,14 +1,16 @@
-### Hi there 👋
+### Hey 👋
 
-My name is Sonia Hussain, and I am a Junior Software Developer. I'm from Birmingham, UK and currently work at GDS (Government Digital Services). 
+I'm Sonia - a Junior Software Developer based in Birmingham, working at GDS. 
 
-I'm currently honing my skills in Ruby, Ruby on Rails, Databases and Frontend Development 🌱
+I started working out in marketing, somehow ended up in the civil service, and then fell into software development... and honestly, I haven't looked back. I really enjoy building things in the public sector that are useful, accessible and actually help people. 
 
-🎓 **Learning Journey:** I completed an intensive Web Devopment Bootcamp at Le Wagon (end of June 2023). This was a great stepping stone into software development as it allowed me to make 10000000s of mistakes during my learning. 
+I've recently come back from maternity leave, so life right now is a mix of Ruby, Rails, nappies, toddler tantrums and very broken sleep 👶🫩
 
-🚀 **Bootcamp Highlights:** A great achievement was when I led a team of anime enthusiasts, in creating [Anime Trek](https://github.com/CodeSonia/anime-trek) where users are able to search for anime and look up further information, as well as earning points ✨ for adding anime to their watchlist, writing reviews and adding comments. As well as building upon my technical skillset, I developed soft skills such as collaboration, communication, project management and [presentation skills](https://www.youtube.com/watch?v=U3Wqv_YkVXA).
+I'm currently learning the ropes into Ruby and Ruby on Rails, aiming to become a _solid_ developer - learning loads, asking lots of questions, and learn how to write clean, readable and documented code. 
 
-✨ **From Marketing to Dev:** I switched my career from marketing => civil service => software development (in civil service). Over the past couple of years and inbetween day-to-day jobs, I've dabbled in HTML, CSS, JS and some Python to grow my curiosity. 
+I did a Web Development Bootcamp at Le Wagon in June 2023 - the highlight was [Anime Trek](https://github.com/CodeSonia/anime-trek) - a project where we mixed a love of anime with a product that lets users discover shows, build watchlists, write reviews and a side of gamification by earning points. Basically: anime + coding = happiness ✨
+
+So that's me in a nutshell... still learning, still curious, and trying to code in a world full of toddler mayhem 🐛
 
 <!--
 **CodeSonia/CodeSonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
