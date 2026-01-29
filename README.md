@@ -6,7 +6,7 @@ I started working out in marketing, somehow ended up in the civil service, and t
 
 I've recently come back from maternity leave, so life right now is a mix of Ruby, Rails, nappies, toddler tantrums and very broken sleep 👶🫩
 
-I'm currently learning the ropes into Ruby and Ruby on Rails, aiming to become a _solid_ developer - learning loads, asking lots of questions, and learn how to write clean, readable and documented code. 
+I'm currently learning the ropes into Ruby and Ruby on Rails, aiming to become a _solid_ developer - learning loads, asking lots of questions, and learn how to write clean, readable and documented code. I know I'll bnever stop learning, and that's why I love doing my job (I'm always challenged).
 
 I did a Web Development Bootcamp at Le Wagon in June 2023 - the highlight was [Anime Trek](https://github.com/CodeSonia/anime-trek) - a project where we mixed a love of anime with a product that lets users discover shows, build watchlists, write reviews and a side of gamification by earning points. Basically: anime + coding = happiness ✨
 
